@@ -2,19 +2,19 @@
 
 ## Оглавлелние
 
-[1. Описание проекта](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Этапы-работы-над-проектом)
 
-[5. Результат](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Результаты)
+[5. Результат](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Результаты)
 
-[6. Авторы](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Авторы)
+[6. Авторы](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Авторы)
 
-[7. Выводы](https://github.com/Axewyl/Predict_rating_hotels/blob/master/README.md#Выводы)
+[7. Выводы](https://github.com/Axewyl/ML_Supervised_learning_Classification/blob/master/README.md#Выводы)
 
 ### Описание проекта
 
