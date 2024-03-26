@@ -22,6 +22,8 @@
 
 Оригинальный датасет: [“Booking reviews” (kaggle.com)](https://www.kaggle.com/competitions/sf-booking/data)
 
+Внёс изменения!!
+
 ### Какой кейс решаем
 
 Построение модели максимально точно предсказывающую рейтиг отеля.
